@@ -1,16 +1,10 @@
-# pie_chart
+# Pie Chart Example
 
 A new Flutter project.
 
-## Getting Started
+## Screenshot
+![piechart](https://github.com/merihcavdar/pie_chart/assets/84540989/98840364-afaa-44b8-96b3-ab22d32e51a1)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- fl_chart package usage
+- pubspecs.yaml
