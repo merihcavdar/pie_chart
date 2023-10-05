@@ -7,4 +7,4 @@ A new Flutter project.
 
 ## Features
 - fl_chart package usage
-- pubspecs.yaml
+- pubspec.yaml
